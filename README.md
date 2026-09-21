@@ -45,3 +45,12 @@ This Power BI dashboard analyzes electronics sales data to provide actionable in
 - Dashboard Design
 - Business Intelligence
 - Data Storytelling
+
+
+## Author
+
+**Runo Asore**
+Entry- Level Data Analyst | Power Bi & Excel Enthusiast
+
+[![LikedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/runo-asore-bb0411409)
+[![Twitter/X](https://img.shields.io/badge/X-Follow-black)](https://x.com/AsoreRuno)
